@@ -1,0 +1,18 @@
+.flash {
+  background: #f6f9fc;
+  padding: 50px 0;
+}
+.line {
+  text-align: center;
+  padding: 20px;
+}
+.top {
+  text-align: center;
+}
+.offer {
+  text-align: center;
+  color: orangered;
+}
+.sale {
+  color: orangered;
+}
